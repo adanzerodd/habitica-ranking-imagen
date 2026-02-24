@@ -1,0 +1,7 @@
+{
+  "name": "habitica-ranking-imagen",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/og": "latest"
+  }
+}
